@@ -53,13 +53,13 @@ https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="a.tv Augsburg" tvg-id="a.tv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv Augsburg
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempen
+#EXTINF:-1 tvg-name="allgÃ¤u.tv Kempen" tvg-id="allgÃ¤u.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgÃ¤u.tv Kempen
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 #EXTINF:-1 tvg-name="Arcadia TV" tvg-id="Arcadia TV" tvg-logo="" group-title="GERMAN LOCAL",Arcadia TV
 plugin://plugin.video.youtube/play/?video_id=noWBpD-8TH0
 #EXTINF:-1 tvg-name="Baden TV Karlsruhe" tvg-id="Baden TV" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV Karlsruhe
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF: -1  tvg-name="BLK TV Hohenmölsen" tvg-id="BLK Regional TV" tvg-logo = "https://i.imgur.com/DezlOqt.png" group-title = "GERMAN LOCAL", BLK TV Hohenmölsen
+#EXTINF: -1  tvg-name="BLK TV HohenmÃ¶lsen" tvg-id="BLK Regional TV" tvg-logo = "https://i.imgur.com/DezlOqt.png" group-title = "GERMAN LOCAL", BLK TV HohenmÃ¶lsen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="" tvg-name="Campus TV Magdeburg" tvg-logo="" group-title="GERMAN LOCAL",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
@@ -71,15 +71,15 @@ plugin://plugin.video.youtube/play/?video_id=1lanjnrJAJM
 https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
 #EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="Dresden Fernsehen" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF: -1 tvg-name="Elbekanal Schönebeck " tvg-id="Elbekanal" tvg-logo = "https://i.imgur.com/IRNtpKZ.png" group-title = "GERMAN LOCAL",Elbekanal Schönebeck
+#EXTINF: -1 tvg-name="Elbekanal SchÃ¶nebeck " tvg-id="Elbekanal" tvg-logo = "https://i.imgur.com/IRNtpKZ.png" group-title = "GERMAN LOCAL",Elbekanal SchÃ¶nebeck
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=171674
 #EXTINF: -1 tvg-name="ems TV Lingen" tvg-id="emsTV.de" tvg-logo = "https://robertkoop.files.wordpress.com/2011/10/rtemagicc_mso_untergrafik_k_rm_ev1_tv_01.png" group-title = "GERMAN LOCAL",ems TV Lingen
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Erz-TV Stollberg" tvg-id="Erz-TV Stollberg" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="GERMAN LOCAL",Erz-TV Stollberg
 plugin://plugin.video.youtube/play/?video_id=iBKMOgWiIX0
-#EXTINF:-1 tvg-name="Filstalwelle Göppingen" tvg-id="Filstalwelle" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMAN LOCAL",Filstalwelle Göppingen
+#EXTINF:-1 tvg-name="Filstalwelle GÃ¶ppingen" tvg-id="Filstalwelle" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMAN LOCAL",Filstalwelle GÃ¶ppingen
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
-#EXTINF:-1 tvg-name="Franken Fernsehen Nürnberg" tvg-id="FrankenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen Nürnberg
+#EXTINF:-1 tvg-name="Franken Fernsehen NÃ¼rnberg" tvg-id="FrankenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen NÃ¼rnberg
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Friesischer Rundfunk Friedeburg" tvg-id="Friesischer Rundfunk"tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="GERMAN LOCAL",Friesischer Rundfunk Friedeburg
 https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
@@ -95,7 +95,7 @@ https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/play
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF: -1 tvg-name="MDF.1 Magdeburg" tvg-id="MDF.1" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title = "GERMAN LOCAL", MDF.1 Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+#EXTINF:-1 tvg-name="mÃ¼nchen.tv" tvg-id="MunchenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",mÃ¼nchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMAN LOCAL",MyTVplus Dresden
 rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
@@ -135,7 +135,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/p
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF: -1 tvg-name="Ran1 Dessau-Roßlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title = "GERMAN LOCAL", Ran1 Dessau-Roßlau
+#EXTINF: -1 tvg-name="Ran1 Dessau-RoÃŸlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title = "GERMAN LOCAL", Ran1 Dessau-RoÃŸlau
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
 #EXTINF: -1 tvg-name="RBW Bitterfeld-Wolfen" tvg-id="RBW" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title = "GERMAN LOCAL", RBW Bitterfeld-Wolfen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997
@@ -155,11 +155,11 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/p
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saarland Fernsehen 2" tvg-id="Saarland Fernsehen 2" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="GERMAN LOCAL",Saarland Fernsehen 2
 http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF: -1 tvg-name="Südthüringer Regionalfernsehen" tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title = "GERMAN LOCAL", Südthüringer Regionalfernsehen
+#EXTINF: -1 tvg-name="SÃ¼dthÃ¼ringer Regionalfernsehen" tvg-id="SÃ¼dthÃ¼ringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title = "GERMAN LOCAL", SÃ¼dthÃ¼ringer Regionalfernsehen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="Sylt1.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
-#EXTINF:-1  tvg-name="TV38 Südost-Niedersachen" tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 Südost-Niedersachen
+#EXTINF:-1  tvg-name="TV38 SÃ¼dost-Niedersachen" tvg-id="TV38 SÃ¼dost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 SÃ¼dost-Niedersachen
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF: -1 tvg-name="TV Halle" tvg-id="TV Halle" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/3/31/TV_Halle_Station-ID.png/320px-TV_Halle_Station-ID.png" group-title = "GERMAN LOCAL", TV Halle
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=835297
@@ -171,7 +171,7 @@ https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
 https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="TVA" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA Ostbayern
 https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
-#EXTINF: -1 tvg-name="UnserDing Saarbrücken (Webradio)" tvg-id="UnserDing" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Unser_Ding.svg/revision/latest/scale-to-width-down/250?cb=20091226181423" group-title = "GERMAN LOCAL", UnserDing Saarbrücken (Webradio)
+#EXTINF: -1 tvg-name="UnserDing SaarbrÃ¼cken (Webradio)" tvg-id="UnserDing" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Unser_Ding.svg/revision/latest/scale-to-width-down/250?cb=20091226181423" group-title = "GERMAN LOCAL", UnserDing SaarbrÃ¼cken (Webradio)
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name="Vatikan Media Deutsch" tvg-id="Vatikan Media" tvg-logo="" group-title="GERMAN LOCAL",Vatikan Media Deutsch
 plugin://plugin.video.youtube/play/?video_id=hJE9gI3SHTQ
@@ -191,13 +191,13 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="FS1 Salzburg" tvg-id="FS1 Salzburg" tvg-logo="https://i.imgur.com/P5pc813.png" group-title="AUSTRIA",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="AUSTRIA",Hitradio Ö3 (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ã–3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="AUSTRIA",Hitradio Ã–3 (Webradio)
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="AUSTRIA",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KT1" tvg-logo="https://www.kt1.at/wp-content/uploads/2019/08/kt1_header_logo.png" group-title="AUSTRIA",KT1
 plugin://plugin.video.youtube/play/?video_id=zEntkC6YZT4
-#EXTINF:-1 tvg-name="Ländle Tv" tvg-id="laendletv.com" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",Ländle Tv
+#EXTINF:-1 tvg-name="LÃ¤ndle Tv" tvg-id="laendletv.com" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",LÃ¤ndle Tv
 https://streaming7.huberwebmedia.at/hls-live/live_laendle/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
@@ -277,7 +277,7 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
 https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",Telezürich
+#EXTINF:-1 tvg-name="TelezÃ¼rich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",TelezÃ¼rich
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND;MUSIK",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
@@ -783,37 +783,37 @@ https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="MYTVTOGO USA",Westerns 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – AutoPlay" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – AutoPlay
+#EXTINF:-1 tvg-name="Network Â– AutoPlay" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– AutoPlay
 https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – BCTV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – BCTV
+#EXTINF:-1 tvg-name="Network Â– BCTV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– BCTV
 https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Black Music Artist TV" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="",Network – Black Music Artist TV
+#EXTINF:-1 tvg-name="Network Â– Black Music Artist TV" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="",Network Â– Black Music Artist TV
 https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Bluegrass Music" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/wha8zxc.png",Network – Bluegrass Music
+#EXTINF:-1 tvg-name="Network Â– Bluegrass Music" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/wha8zxc.png",Network Â– Bluegrass Music
 https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – California Music Channel" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – California Music Channel
+#EXTINF:-1 tvg-name="Network Â– California Music Channel" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– California Music Channel
 https://nimble.dashstreams.net/onestudio/californiamusicchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Classic Arts Showcase" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Classic Arts Showcase
+#EXTINF:-1 tvg-name="Network Â– Classic Arts Showcase" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-name="Network – Energy Network" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Energy Network
+#EXTINF:-1 tvg-name="Network Â– Energy Network" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Energy Network
 https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Family Friendly Entertainment" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Family Friendly Entertainment
+#EXTINF:-1 tvg-name="Network Â– Family Friendly Entertainment" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Family Friendly Entertainment
 https://nimble.dashstreams.net/onestudio/gmt/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Going To War" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Going To War
+#EXTINF:-1 tvg-name="Network Â– Going To War" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Going To War
 https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Let’s Talk About It" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Let’s Talk About It
+#EXTINF:-1 tvg-name="Network Â– LetÂ’s Talk About It" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– LetÂ’s Talk About It
 https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – News Net" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – News Net
+#EXTINF:-1 tvg-name="Network Â– News Net" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– News Net
 https://nimble.dashstreams.net/onestudio/newsnet/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – nPowered TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – nPowered TV
+#EXTINF:-1 tvg-name="Network Â– nPowered TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– nPowered TV
 https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – OK TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – OK TV
+#EXTINF:-1 tvg-name="Network Â– OK TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– OK TV
 https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Planet Cannabis Shopping" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Planet Cannabis Shopping
+#EXTINF:-1 tvg-name="Network Â– Planet Cannabis Shopping" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Planet Cannabis Shopping
 https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Really TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Really TV
+#EXTINF:-1 tvg-name="Network Â– Really TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Really TV
 https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Wink TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Wink TV
+#EXTINF:-1 tvg-name="Network Â– Wink TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network Â– Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
 #EXTINF:-1 tvg-name="************** USA PLEX *********" tvg-id="" group-title="" tvg-logo="",************** USA PLEX *********
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
@@ -1432,7 +1432,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Cine Acción
+#EXTINF:-1 tvg-name="Pluto TV Cine AcciÃ³n" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Cine AcciÃ³n
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=904&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -2153,7 +2153,7 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/langfr-200px-ICI_RDI_logo.svg.png",ICI RDI HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD" tvg-id="ICI Télé HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/300px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI Télé HD
+#EXTINF:-1 tvg-name="ICI TÃ©lÃ© HD" tvg-id="ICI TÃ©lÃ© HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/300px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI TÃ©lÃ© HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="CANADA",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
@@ -2391,14 +2391,14 @@ https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="************ IRELAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ IRELAND ************
 https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
-#EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
+#EXTINF:-1 tvg-name="RTÃ‰ News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÃ‰ News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
 #EXTINF:-1 tvg-name="Oireachtas TV" tvg-id="" group-title="IRELAND" tvg-logo="",Oireachtas TV
 https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Dáil Éireann" tvg-id="" group-title="IRELAND" tvg-logo="",Dáil Éireann
+#EXTINF:-1 tvg-name="DÃ¡il Ã‰ireann" tvg-id="" group-title="IRELAND" tvg-logo="",DÃ¡il Ã‰ireann
 https://oirlive.heanet.ie/dail/ngrp:dail.stream_all/chunklist_b478000.m3u8
-#EXTINF:-1 tvg-name="Seanad Éireann" tvg-id="" group-title="IRELAND" tvg-logo="",Seanad Éireann
+#EXTINF:-1 tvg-name="Seanad Ã‰ireann" tvg-id="" group-title="IRELAND" tvg-logo="",Seanad Ã‰ireann
 https://oirlive.heanet.ie/seanad/ngrp:seanad.stream_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-name="Committee Room 1" tvg-id="" group-title="IRELAND" tvg-logo="",Committee Room 1
 https://oirlive.heanet.ie/cr1/ngrp:cr1.stream_all/chunklist_b1228000.m3u8
@@ -2557,11 +2557,11 @@ https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="BELGIUM",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="MaTélé" tvg-name="MaTélé" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTélé
+#EXTINF:-1 tvg-id="MaTÃ©lÃ©" tvg-name="MaTÃ©lÃ©" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTÃ©lÃ©
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 #EXTINF:-1 tvg-id="MNM" tvg-name="MNM (Webradio)" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" group-title="BELGIUM",MNM (Webradio)
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTélé
+#EXTINF:-1 tvg-id="NoTÃ©lÃ©" tvg-name="NoTÃ©lÃ©" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTÃ©lÃ©
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM;MUSIK",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
@@ -2573,7 +2573,7 @@ http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="BELGIUM",Tele MB
 https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb.m3u8
-#EXTINF:-1 tvg-id="Télésambre" tvg-name="Télésambre" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",Télésambre
+#EXTINF:-1 tvg-id="TÃ©lÃ©sambre" tvg-name="TÃ©lÃ©sambre" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",TÃ©lÃ©sambre
 https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIUM",TV Lux
 https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux.m3u8
@@ -2657,7 +2657,7 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 4 Svensk Politik" tvg-logo="https://i.imgur.com/PRh8iCp.png" group-title="SWEDEN",TV 4 Svensk Politik
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Västmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",Västmanlands Television
+#EXTINF:-1 tvg-id="" tvg-name="VÃ¤stmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",VÃ¤stmanlands Television
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="******************* NORWAY ***************" tvg-logo="",******************* NORWAY ***************
@@ -2679,7 +2679,7 @@ https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Omega" tvg-logo="https://i.imgur.com/dqJX5p1.png" group-title="ICELAND",Omega
 http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-name="RUV 1" tvg-id="RÚV 1 Island" tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="ICELAND",RUV 1
+#EXTINF:-1 tvg-name="RUV 1" tvg-id="RÃšV 1 Island" tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="ICELAND",RUV 1
 https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUV 2" tvg-logo="http://www.ruv.is/sjonvarp/static/media/RUV2_192.9247daaf.png" group-title="ICELAND",RUV 2
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
@@ -2925,7 +2925,7 @@ http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="ITALY",Azzurra TV Verbano
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
-#EXTINF:-1 tvg-name="Cafè 24" tvg-id="" group-title="ITALY" tvg-logo="",Cafè 24
+#EXTINF:-1 tvg-name="CafÃ¨ 24" tvg-id="" group-title="ITALY" tvg-logo="",CafÃ¨ 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 2" tvg-id="" group-title="ITALY" tvg-logo="",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
@@ -3038,7 +3038,7 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="",RAI News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-name="RAI Südtirol" tvg-id="" group-title="ITALY" tvg-logo="",RAI Südtirol
+#EXTINF:-1 tvg-name="RAI SÃ¼dtirol" tvg-id="" group-title="ITALY" tvg-logo="",RAI SÃ¼dtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
@@ -3274,7 +3274,7 @@ https://taronjavic.streaming-pro.com/hls/vic_240p.m3u8
 #EXTINF:-1 tvg-name="Canalcosta TV" tvg-id="" tvg-logo="https://i.imgur.com/1RVS7Wh.png" group-title="SPAIN",Canalcosta TV
 http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canaria SAT" tvg-id="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
+#EXTINF:-1 tvg-name="Canaria SAT" tvg-id="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TelevisiÃ³n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CMM Castilla La Mancha" tvg-id="" tvg-logo="https://www.portalparados.es/wp-content/uploads/castilla-la-mancha-television.png" group-title="SPAIN",CMM Castilla La Mancha
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8
@@ -4369,3 +4369,19 @@ https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE (BE)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-name="HabertÃ¼rk" tvg-id="HabertÃ¼rk" tvg-logo="" group-title="TURKEY",HabertÃ¼rk
+https://www.youtube.com/watch?v=deKH0pQ7-rg
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV" tvg-logo="" group-title="TURKEY",NTV
+https://www.youtube.com/watch?v=XEJM4Hcgd3M
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber" tvg-logo="" group-title="TURKEY",TRT Haber
+https://www.youtube.com/watch?v=aocmYgDaw88
+#EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="" group-title="TURKEY",Haber Global
+https://www.youtube.com/watch?v=mOtMCjRg-AI
+#EXTINF:-1 tvg-name="CNN TÃ¼rk" tvg-id="CNN TÃ¼rk" tvg-logo="" group-title="TURKEY",CNN TÃ¼rk
+https://www.youtube.com/watch?v=c0Na7E1EVk8
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV 100" tvg-logo="" group-title="TURKEY",TV 100
+https://www.youtube.com/watch?v=M0eAO5YMDXQ
+#EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="" group-title="TURKEY",A Haber
+https://www.youtube.com/watch?v=AbX7HxqMy6o
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="" group-title="TURKEY",24 TV
+https://www.youtube.com/watch?v=jKqWodTbEMI
